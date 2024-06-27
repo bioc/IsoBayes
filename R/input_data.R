@@ -42,7 +42,6 @@
 #'
 #' @export
 input_data = function(SE,
-<<<<<<< HEAD
                       path_to_tpm = NULL) {
   if (!is(SE, "SummarizedExperiment")) {
     stop("SE should be a SummarizedExperiment object.")
