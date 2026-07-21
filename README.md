@@ -26,8 +26,8 @@ These two steps allow us to recover the presence and abundance of each protein i
 >
 > IsoBayes: a Bayesian approach for single-isoform proteomics inference.
 >
-> bioRxiv (2024).
-> Available [here](https://doi.org/10.1101/2024.06.10.598223).
+> Bioinformatics (2025).
+> Available [here](https://doi.org/10.1093/bioinformatics/btaf450).
 
 ## Bioconductor installation 
 `IsoBayes` is available on [Bioconductor](https://bioconductor.org/packages/IsoBayes) and can be installed with the command:
